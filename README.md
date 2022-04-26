@@ -33,6 +33,7 @@ worst concave points 凹縫（輪廓的凹部分）最大值
 基於準確率為可容許的程度下，用這5個元素下去作預測APP。
 
 ps.要在LocalHost跑streamlit app,請參考另一個檔案
+
 Run streamlit on Colab without Ngrok(LocalTunnel) .ipynb
 內含測試資料集iris和Brease cancer
 
